@@ -3,7 +3,7 @@
 The coffee store wants to create a sales report for their roast types. so that the owner of the store can understand the customers, know the countries where sales grew and the kind of coffee they sell the most
 
 ## Dataset used
--<a href= "coffeeOrdersData.xlsx"
+-<a href= "[coffeeOrdersData.xlsx](https://github.com/zeezflare/Coffee-Sales-Dataset/blob/main/Screenshot%202025-04-20%20174035.png)"
 
 ## Questions (KPIs)
 - Total Sales – Total revenue across orders.
@@ -25,6 +25,7 @@ The coffee store wants to create a sales report for their roast types. so that t
 
 ## Dashboard
 
+-<a href= "[coffeeOrdersData.xlsx](https://github.com/zeezflare/Coffee-Sales-Dataset/blob/main/Screenshot%202025-04-20%20174035.png)"
 
 ## Project Insight
 Arabica coffee in Medium roast accounts for the highest profit margin, especially in the U.S. market. The United States is the biggest market. Libraca and Arabica made the most sales in 2021 but declined in 2022, suggesting a huge decline in sales. The 2.5kg size is the most popular size bought. 51% of customers don't have loyalty cards.
