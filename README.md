@@ -3,7 +3,7 @@
 The coffee store wants to create a sales report for their roast types. so that the owner of the store can understand the customers, know the countries where sales grew and the kind of coffee they sell the most
 
 ## Dataset used
--<a href= "[coffeeOrdersData.xlsx](https://github.com/zeezflare/Coffee-Sales-Dataset/blob/main/Screenshot%202025-04-20%20174035.png)"
+-<a href= "[[coffeeOrdersData.xlsx](https://github.com/zeezflare/Coffee-Sales-Dataset/blob/main/Screenshot%202025-04-20%20174035.png)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fzeezflare%2FCoffee-Sales-Dataset%2Frefs%2Fheads%2Fmain%2FcoffeeOrdersData.xlsx&wdOrigin=BROWSELINK)"
 
 ## Questions (KPIs)
 - Total Sales – Total revenue across orders.
