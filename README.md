@@ -17,15 +17,15 @@ The coffee store wants to create a sales report for their roast types. so that t
 - Profit Analysis – Based on unit profit from the products table.
 - Monthly Sales Trend – Revenue by month/year.
 
-##Process
+## Process
 - Verify data for missing values and anomalies, and sort out the same.
 - Made sure data was consistent and clean concerning data type, data format, and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicers to make it dynamic.
 
-##Dashboard
+## Dashboard
 
 
-##Project Insight
+## Project Insight
 Arabica coffee in Medium roast accounts for the highest profit margin, especially in the U.S. market. The United States is the biggest market. Libraca and Arabica made the most sales in 2021 but declined in 2022, suggesting a huge decline in sales. The 2.5kg size is the most popular size bought. 51% of customers don't have loyalty cards.
 
